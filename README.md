@@ -1,5 +1,8 @@
 # Manual_Tec
 Manual de técnicas de programação, com os seguintes conteúdos: 
-  -Boas práticas de programação;
+ <br>
+ -Boas práticas de programação;
+ <br>
   -Versionamento;
+  <br>
   -Breakpoints.
